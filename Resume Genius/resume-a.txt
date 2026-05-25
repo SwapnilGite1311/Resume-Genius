@@ -1,3 +1,0 @@
-React Python MongoDB REST API AWS Docker CI/CD Git leadership metrics 35% improvement.
-Projects section included.
-Skills: React, Python, MongoDB, AWS, Docker, Git.

@@ -1,5 +1,0 @@
-Experienced React developer with Python, MongoDB, REST APIs, AWS, Docker, and CI/CD experience.
-Built applicant screening workflows, shipped dashboards, and improved performance by 28%.
-Skills: React, JavaScript, Python, Node.js, MongoDB, AWS, Docker, Git.
-Projects: Resume screening platform with recruiter and jobseeker flows.
-Education: Bachelor of Engineering.
